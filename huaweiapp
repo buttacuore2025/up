@@ -1,1 +1,7 @@
-
+{
+    "versionCode": 1,
+    "versionName": "1.0",
+    "contentText": "New version is now available ~ الموجو تحديث التطبيق",
+    "minSupport": 24,
+    "url": ""
+}
